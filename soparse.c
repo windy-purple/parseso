@@ -1,10 +1,3 @@
-/*
- * @Author: windy_ll
- * @Date: 2020-10-01 21:08:38
- * @LastEditors: windy_ll
- * @LastEditTime: 2020-10-09 23:53:24
- * @Description: file content
- */
 #include <stdio.h>
 #include "dataType.h"
 
